@@ -1,5 +1,3 @@
-.openclaw/
 *.md
-README.md
-.env
-venv/
+.openclaw/
+memory/
