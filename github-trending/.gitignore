@@ -1,3 +1,5 @@
 .openclaw/
 *.md
 README.md
+.env
+venv/
