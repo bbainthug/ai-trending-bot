@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-02-21T18:46:28.727431",
+  "timestamp": "2026-02-21T18:47:55.146168",
   "total_repos": 8,
   "repositories": [
     {
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "4586"
+      "stars": "4589"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "807"
+      "stars": "808"
     },
     {
       "name": "obra/superpowers",
