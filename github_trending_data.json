@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-02-21T10:56:14.390352",
+  "timestamp": "2026-02-21T11:00:04.032847",
   "total_repos": 9,
   "repositories": [
     {
       "name": "vxcontrol/pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "stars": "4026"
+      "stars": "4029"
     },
     {
       "name": "HailToDodongo/pyrite64",
@@ -18,19 +18,19 @@
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": "56290"
+      "stars": "56291"
     },
     {
       "name": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "stars": "32112"
+      "stars": "32114"
     },
     {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-      "stars": "31575"
+      "stars": "31576"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -42,7 +42,7 @@
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "stars": "8864"
+      "stars": "8865"
     },
     {
       "name": "databricks-solutions/ai-dev-kit",
