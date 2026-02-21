@@ -450,6 +450,7 @@ async def git_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
     # Generate Markdown and save file
     markdown_content = create_markdown_table(ai_repos)
     save_markdown(markdown_content, config["save_filename"])
+    save_markdown(markdown_content, "trending_today.md") # Save trending_today.md
     save_data_json(ai_repos, "github_trending_data.json")
 
     # Send Telegram notification
